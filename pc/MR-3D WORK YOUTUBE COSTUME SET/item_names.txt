@@ -1,0 +1,7 @@
+---- EN > Add
+4500	YouTube Costume (e)
+4501	YouTube Costume (d)
+
+---- TR > Ekle
+4500	YouTube Kostümü (e)
+4501	YouTube Kostümü (k)

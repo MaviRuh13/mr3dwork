@@ -1,0 +1,128 @@
+// EN: Edit Group "ShapeDataXXX" according to your msm file. Make sure that the value written against ShapeDataCount is larger than ShapeDataXXX.
+// TR: Group "ShapeDataXXX" kısmını kendi msm dosyanıza göre düzenleyiniz. "ShapeDataCount" karşısında yazan değer "ShapeDataXXX" den daha büyük olmasına dikkat ediniz.
+
+----------------------- assassin_m.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"assassin_m.gr2"
+		SourceSkin			"man.dds"
+		TargetSkin			"man.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- assassin_w.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"assassin_w.gr2"
+		SourceSkin			"woman.dds"
+		TargetSkin			"woman.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- shaman_m.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"shaman_m.gr2"
+		SourceSkin			"man.dds"
+		TargetSkin			"man.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- shaman_w.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"shaman_w.gr2"
+		SourceSkin			"woman.dds"
+		TargetSkin			"woman.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- sura_m.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"sura_m.gr2"
+		SourceSkin			"man.dds"
+		TargetSkin			"man.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- sura_w.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"sura_w.gr2"
+		SourceSkin			"woman.dds"
+		TargetSkin			"woman.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- warrior_m.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"warrior_m.gr2"
+		SourceSkin			"man.dds"
+		TargetSkin			"man.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- warrior_w.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"warrior_w.gr2"
+		SourceSkin			"woman.dds"
+		TargetSkin			"woman.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}
+
+----------------------- wolfman_m.msm
+
+	Group ShapeDataXXX
+	{
+		SpecialPath			"d:/ymir work/maviruh_work/youtube_set/"
+		
+		ShapeIndex			545
+		Model				"wolfman_m.gr2"
+		SourceSkin			"man.dds"
+		TargetSkin			"man.dds"
+		SourceSkin2			"maviruh_youtube_logo.dds"
+		TargetSkin2			"maviruh_youtube_logo.dds"
+	}

@@ -1,0 +1,4 @@
+// Add - Ekle
+
+4500	ARMOR	icon/item/maviruh_work/youtube_set/costume_m.tga
+4501	ARMOR	icon/item/maviruh_work/youtube_set/costume_w.tga
